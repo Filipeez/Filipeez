@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Matheus Filipe</h1>
 <h3 align="center">Sou um desenvolvedor de carteirinha, ainda aprendendo muita coisa.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipeez" alt="filipeez" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em **colae music-bot**
 
 - 📚 Atualmente estou estudando em **IFES - Campus Vitória**
